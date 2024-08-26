@@ -27,13 +27,14 @@ Before you get started, ensure you have the following installed:
 
    ```
 
-2. **Install Dependencies**
+ ## Install Dependencies
 
    ```bash
    yarn install
 
    ```
-3. **Running the App**
+## Running the App
+
    ```bash
    yarn dev
    
