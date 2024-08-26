@@ -22,7 +22,7 @@ Before you get started, ensure you have the following installed:
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/dmasifur/product-rating-component
+   git clone https://github.com/dmasifur/React-Accordion-Components
    cd your-repo
 
    ```
